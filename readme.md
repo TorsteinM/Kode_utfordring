@@ -15,6 +15,6 @@ Lykke til, og la oss få litt kodekreativitet i gang!
 
 
 ### Lærerens Eksempel
-Lærerens eksempel vil ligge i teams og synkroniseres som til GitHUB som et starteksempel på hvordan man kan bruke GitHUB.
+Lærerens eksempel vil ligge i teams og synkroniseres til GitHUB som et starteksempel på hvordan man kan bruke GitHUB.
 
 Derfor er også denne introen skrevet med Markdown, slik at den kan være en forside til et repository.
